@@ -12,5 +12,6 @@ public class MyTest {
         System.out.println("hello git---master---add---测试冲突用--!!!");
         System.out.println("hello git---playerBranch---add---222冲突测试--!!!");
         System.out.println("push tests!!!");
+        System.out.println("push test2222222222!!!");
     }
 }
